@@ -1,17 +1,14 @@
 {
-    "name": "mobiledetect/mobiledetectlib",
+    "name": "akhenia-palash/mobiledetect",
     "type": "library",
-    "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices. It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.",
+    "description": "extended version of mobile_detect",
     "keywords": ["mobile", "mobile detect", "mobile detector", "php mobile detect", "detect mobile devices"],
-    "homepage": "https://github.com/serbanghita/Mobile-Detect",
     "license": "MIT",
     "authors": [
         {
-            "name": "Serban Ghita",
-            "email": "serbanghita@gmail.com",
-            "homepage": "http://mobiledetect.net",
-            "role": "Developer"
-        }
+			"name": "Palash",
+			"email": "er.palashakhenia@gmail.com"
+		}
     ],
     "require": {
         "php": ">=8.0",
